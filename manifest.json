@@ -1,11 +1,11 @@
 { 
-  "version": "0.1.0", 
+  "version": "0.74", 
   "files": 
   [ 
     {
-     "path": "DragonKillInstaller.zip", 
-     "size": 0, 
-     "hash": "placeholder" 
+     "path": "GameCase.zip", 
+     "size": 334286243, 
+     "hash": "4A7420359DD68A3176ED3904BBCB963852F5445691CCF3401D65B4A445109AC1" 
     } 
   ] 
   }
